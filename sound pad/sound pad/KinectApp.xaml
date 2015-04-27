@@ -1,0 +1,18 @@
+﻿<Window x:Class="sound_pad.KinectApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="KinectApp" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid x:Name="myCanvas">
+        <MediaElement x:Name="SongPlayer" Margin="443,275,10,10" Volume="50" LoadedBehavior="Manual"/>
+        <Ellipse x:Name="ellipiseHandRight" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="44" Margin="74,42,0,0" Stroke="Black" VerticalAlignment="Top" Width="65"/>
+        <Ellipse x:Name="ellipiseElbowRight" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="44" Margin="370,42,0,0" Stroke="Black" VerticalAlignment="Top" Width="69"/>
+        <Label x:Name="LBLStatus" Content="Kinect Status:" HorizontalAlignment="Left" Margin="124,174,0,0" VerticalAlignment="Top"/>
+        
+        <!--Bottom text on screen-->
+        <TextBlock Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Bottom"  FontSize="16" Margin="0 10 0 10" Foreground="Gray">
+            Say: "<Span Name="forwardSpan">Play</Span>", "<Span Name="backSpan">Pause</Span>", "<Span Name="leftSpan">Stop</Span>" or "<Span Name="rightSpan">Quit</Span>"
+        </TextBlock>
+        <!--End bottom text on screen-->
+        
+    </Grid>
+</Window>

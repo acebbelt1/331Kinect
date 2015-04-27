@@ -1,0 +1,58 @@
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\SoundPad.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\KinectApp.baml
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\MainWindow.baml
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\Window1.baml
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\Window2.baml
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\window3.baml
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\KinectApp.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\Window1.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\Window2.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\window3.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\App.g.cs
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\sound pad_MarkupCompile.cache
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\sound pad.g.resources
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\sound_pad.Properties.Resources.resources
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\SoundPad.csproj.GenerateResource.Cache
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\sound pad.exe
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\obj\Debug\sound pad.pdb
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\bin\Debug\sound pad.exe.config
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\bin\Debug\sound pad.exe
+C:\Users\Jonathan Duani\Desktop\Progrmaing\sound pad\sound pad\bin\Debug\sound pad.pdb
+V:\Downloads\sound pad\sound pad\sound pad\bin\Debug\sound pad.exe.config
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\sound pad.exe
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\sound pad.pdb
+V:\Downloads\sound pad\sound pad\sound pad\bin\Debug\sound pad.exe
+V:\Downloads\sound pad\sound pad\sound pad\bin\Debug\sound pad.pdb
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\SoundPad.csprojResolveAssemblyReference.cache
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\KinectApp.baml
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\MainWindow.baml
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\Window1.baml
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\Window2.baml
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\window3.baml
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\KinectApp.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\MainWindow.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\Window1.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\Window2.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\window3.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\App.g.cs
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\sound pad_MarkupCompile.cache
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\sound pad.g.resources
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\sound_pad.Properties.Resources.resources
+V:\Downloads\sound pad\sound pad\sound pad\obj\Debug\SoundPad.csproj.GenerateResource.Cache
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\KinectApp.baml
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\MainWindow.baml
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\Window1.baml
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\Window2.baml
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\window3.baml
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\KinectApp.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\Window1.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\Window2.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\window3.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\App.g.cs
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\sound pad_MarkupCompile.cache
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\sound pad.g.resources
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\sound_pad.Properties.Resources.resources
+C:\Users\Brandon\Downloads\sound pad\sound pad\sound pad\sound pad\obj\Debug\SoundPad.csproj.GenerateResource.Cache
+C:\Users\Brandon\Desktop\sound pad\sound pad\sound pad\bin\Debug\sound pad.exe.config

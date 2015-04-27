@@ -1,0 +1,66 @@
+﻿<grammar version="1.0" xml:lang="en-US" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="Playrule" scope="public">
+    <one-of>
+      <item>
+        <tag>PLAY</tag>
+        <one-of>
+          <item>Start</item>
+          <item>Start Music</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+  
+
+  <rule id="Stoprule" scope="public">
+    <one-of>
+      <item>
+        <tag>STOP</tag>
+        <one-of>
+          <item>Stop</item>
+          <item>Stop Music</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+
+  
+  <rule id="Pauserule" scope="public">
+    <one-of>
+      <item>
+        <tag>PAUSE</tag>
+        <one-of>
+          <item>WAIT</item>
+          <item>Pause</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+
+
+  <rule id="Volumeup" scope="public">
+    <one-of>
+      <item>
+        <tag>UP</tag>
+        <one-of>
+          <item>Up</item>
+          <item>Up</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+
+
+  <rule id="Volumedown" scope="public">
+    <one-of>
+      <item>
+        <tag>DOWN</tag>
+        <one-of>
+          <item>Down</item>
+          <item>Down</item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>
